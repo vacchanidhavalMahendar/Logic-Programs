@@ -1,5 +1,7 @@
 //Program 11 :Java program which intakes two numbers and finds the quotient and reminder
 
+import java.util.Scanner;
+
 public class Program_11 {
     public static void main(String[] args) {
 
