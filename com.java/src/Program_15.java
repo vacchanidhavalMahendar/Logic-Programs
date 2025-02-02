@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//16.Java program which intakes 6 numbers as input and prints their average
+//15.Java program which intakes 6 numbers as input and prints their average
 public class Program_15 {
     public static void main(String[] args) {
 
